@@ -2,7 +2,7 @@
 
 [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) is a delightfully playable [zero-player game](zero-player game) with some 
 intriguing mathematical properties.
- - [Self Replication](https://en.wikipedia.org/wiki/Von_Neumann_universal_constructor), which is how it gets its name.
+ - [Self Replicating](https://en.wikipedia.org/wiki/Von_Neumann_universal_constructor), which is how it gets its name.
  - [Turing Complete](https://en.wikipedia.org/wiki/Turing_completeness), it can be used as a computer.
  - [Complex Dynamical System](https://math.stackexchange.com/questions/2267175/how-can-i-prove-that-game-of-lifes-evolution-function-is-continuous), 
  Complexity emerges from its simple rules.
