@@ -24,5 +24,8 @@ https://en.wikipedia.org/wiki/Kernel_method#Mathematics:_the_kernel_trick
 
 ## Lots to Learn
 
-
-
+Credits
+ - https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+ - https://nostarch.com/download/samples/PythonPlayground_sampleCh3.pdf
+ - https://databricks.com/tensorflow/custom-functions
+ - http://drsfenner.org/blog/2015/07/game-of-life-in-numpy-preliminaries-2/
