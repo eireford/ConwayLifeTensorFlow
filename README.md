@@ -11,7 +11,7 @@ TensorFlow is a great tool for exploring the Game of Life. Life is an example of
 ## Notebooks
 
 ### [A heuristic approach](https://github.com/eireford/ConwayLifeTensorFlow/blob/master/LTF_heuristic_performance.ipynb)
-  While convolution layers are common in Machine Learning Models, no learning is required to implement the game of life algorithm using a convolution.  In this notebook,LTF heuristic performance, you can see how tensorflow makes good use of a GPU for tasks that don’t include ML.
+  While convolution layers are common in Machine Learning Models, no learning is required to implement the game of life algorithm using a convolution.  This notebook shows that tensorflow makes good use of a GPU even for tasks that don’t include ML.
 
 ### [Linear Regression](https://github.com/eireford/ConwayLifeTensorFlow/blob/master/LTF_linear_regression_comparison.ipynb)
   One step towards implementing the full Game Of Life algorithm using ML is to consider the outcome of a single step for a single cell.  This notebook trains a model that updates a single cell based on its immediate neighborhood.
