@@ -6,7 +6,7 @@
  - [Complex Dynamical System](https://math.stackexchange.com/questions/2267175/how-can-i-prove-that-game-of-lifes-evolution-function-is-continuous), complexity emerges from its simple rules.
   - [Undecidable](https://en.wikipedia.org/wiki/Undecidable_problem) It can be proven that there are outcomes that cannot be predicated.
 
-TensorFlow is a great tool for exploring the Game of Life. Life is an example of a problem that is ["Embarrassingly Parallel"](https://en.wikipedia.org/wiki/Embarrassingly_parallel), each step in it's calculation requires only a proximal subset of the data and results can be aggregated via concatenation. One approach to algorithm of life is a [kernel method] (https://en.wikipedia.org/wiki/Kernel_method#Mathematics).
+TensorFlow is a great tool for exploring the Game of Life. Life is an example of a problem that is ["Embarrassingly Parallel"](https://en.wikipedia.org/wiki/Embarrassingly_parallel), each step in it's calculation requires only a proximal subset of the data and results can be aggregated via concatenation. One approach to algorithm of life is a [kernel method](https://en.wikipedia.org/wiki/Kernel_method#Mathematics)
 
 A heuristic approach.
   While convolution layers are common in Machine Learning Models, no learning is required to implement the game of life algorithm using a convolution.  In this notebook,LTF heuristic performance, you can see how tensorflow makes good use of a GPU for tasks that don’t include ML.
