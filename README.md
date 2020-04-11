@@ -8,19 +8,19 @@
 
 TensorFlow is a great tool for exploring the Game of Life. Life is an example of a problem that is ["Embarrassingly Parallel"](https://en.wikipedia.org/wiki/Embarrassingly_parallel), each step in it's calculation requires only a proximal subset of the data and results can be aggregated via concatenation. One approach to algorithm of life is a [kernel method](https://en.wikipedia.org/wiki/Kernel_method#Mathematics)
 
-A heuristic approach.
+## A heuristic approach.
   While convolution layers are common in Machine Learning Models, no learning is required to implement the game of life algorithm using a convolution.  In this notebook,LTF heuristic performance, you can see how tensorflow makes good use of a GPU for tasks that don’t include ML.
 
-Linear Regression.
+## Linear Regression.
   One step towards implementing the full Game Of Life algorithm using ML is to consider the outcome of a single step for a single cell.  This notebook trains a model that updates a single cell based on its immediate neighborhood.
 
-Logistic regression.
+## Logistic regression.
   This notebook shows how convolutional networks are particularly efficient at extracting the repeating patterns. This model learns the rules for the game of life after just 40 examples.
 
-Logistic regression two steps.
+## Logistic regression two steps.
   Training for two steps in the life algorithm requires a larger kernel and more data.
 
-Logistic regression three steps.
+## Logistic regression three steps.
   You can’t just scale up the two step model and train for three steps.
 
 See Also
