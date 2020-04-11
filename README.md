@@ -1,6 +1,6 @@
 # Life on TensorFlow
 
-[Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) is a delightfully playable cellular automation [zero-player game](https://en.wikipedia.org/wiki/Zero-player_game) with some intriguing mathematical properties.
+[Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) is a delightfully playable cellular automaton [zero-player game](https://en.wikipedia.org/wiki/Zero-player_game) with some intriguing mathematical properties.
  - [Self Replicating](https://en.wikipedia.org/wiki/Von_Neumann_universal_constructor), which is how it earns its name.
  - [Turing Complete](https://en.wikipedia.org/wiki/Turing_completeness), it can be used to do arbitrary computations.
  - [Complex Dynamical System](https://math.stackexchange.com/questions/2267175/how-can-i-prove-that-game-of-lifes-evolution-function-is-continuous), complexity emerges from its simple rules.
