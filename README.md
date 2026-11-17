@@ -23,7 +23,7 @@ Every notebook opens in Google Colab with its outputs saved, so you can read the
 | [Linear regression](LTF_linear_regression_comparison.ipynb) · [Colab](https://colab.research.google.com/github/eireford/ConwayLifeTensorFlow/blob/main/LTF_linear_regression_comparison.ipynb) | A first step toward learning the rules: predict one cell's next state from its 3×3 neighbourhood. |
 | [Logistic regression](LTF_logistic_regression.ipynb) · [Colab](https://colab.research.google.com/github/eireford/ConwayLifeTensorFlow/blob/main/LTF_logistic_regression.ipynb) | A convolutional model learns Life's rules from just 40 examples. Convolutions are good at extracting repeating local patterns. |
 | [Logistic regression, two steps](LTF_logistic_regression_two_step.ipynb) · [Colab](https://colab.research.google.com/github/eireford/ConwayLifeTensorFlow/blob/main/LTF_logistic_regression_two_step.ipynb) | Predicting two generations ahead needs a larger kernel and more data. |
-| [Emoji Life](emoji_life.ipynb) · [Colab](https://colab.research.google.com/github/eireford/ConwayLifeTensorFlow/blob/main/emoji_life.ipynb) | An early scratchpad for mapping cell states to emoji (the idea that later became [Emojioji](https://github.com/eireford/emojioji)). |
+| [Emoji Life](emoji_life.ipynb) · [Colab](https://colab.research.google.com/github/eireford/ConwayLifeTensorFlow/blob/main/emoji_life.ipynb) | An early scratchpad for mapping cell states to emoji (see also [Emojioji](https://github.com/eireford/emojioji)). |
 
 A third step was the natural next experiment. Simply scaling up the two-step model didn't work, which is where this
 exploration stopped.
